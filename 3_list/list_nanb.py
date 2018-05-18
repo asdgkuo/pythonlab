@@ -8,4 +8,4 @@ def result(answer,guess):
                 B+=1
     return str(A)+"A"+str(B)+"B"
 
-    print(result('1234','4321'))
+print(result('1234','4321'))
